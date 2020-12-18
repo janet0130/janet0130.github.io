@@ -1,4 +1,4 @@
-## This is Novy inda House
+## This is Novy in da House
 
 You can use the [editor on GitHub](https://github.com/janet0130/janet0130.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
